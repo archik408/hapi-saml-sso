@@ -1,0 +1,7 @@
+.com.google.*
+.idea
+node_modules/
+out/
+dist/
+docs/
+*.log
