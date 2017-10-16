@@ -10,7 +10,14 @@
     "type": "git",
     "url": "https://archik@bitbucket.org/archik/hapi-saml-sso.git"
   },
-  "keywords": ["saml", "hapi", "sso","xml","idp", "oasis"],
+  "keywords": [
+    "saml",
+    "hapi",
+    "sso",
+    "xml",
+    "idp",
+    "oasis"
+  ],
   "author": {
     "name": "Artur Basak",
     "email": "artur.basak@instinctools.ru"
@@ -23,7 +30,7 @@
   "dependencies": {
     "boom": "3.1.1",
     "joi": "9.0.0",
-    "passport-saml": "0.15.0"
+    "passport-saml": "0.20.0"
   },
   "devDependencies": {
     "hapi": "16.1.0"
